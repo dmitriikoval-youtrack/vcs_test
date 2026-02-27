@@ -21,8 +21,6 @@ if __name__ == "__main__":
     print(f"2 + 3 = {add(2, 3)}")
     print(f"First 10 Fibonacci numbers: {fibonacci(10)}")
 ### MORE COMMENTED
-#### ORA ORA ORA
-### DORA DORA DORA
 #### MUAAHAHAHA
 Print("Hello, World!")
 
