@@ -25,3 +25,5 @@ if __name__ == "__main__":
 ### DORA DORA DORA
 #### MUAAHAHAHA
 Print("Hello, World!")
+Print("Hello, World!")
+Print("Hello, World!")
